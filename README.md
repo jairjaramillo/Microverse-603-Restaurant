@@ -27,7 +27,7 @@ This progam was made using this technologies
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!--  CONTACT  -->
+<!-- CONTACT -->
 
 ## Contact
 
@@ -35,7 +35,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/jairjy/Microverse-603-Restaurant](https://github.com/jairjy/Microverse-603-Restaurant)
 
-<!-- ACKNOWLEDGEMENTS -->
+<!--  ACKNOWLEDGEMENTS  -->
 
 ## Acknowledgements
 
