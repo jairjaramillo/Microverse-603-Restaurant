@@ -6,3 +6,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.jumbotron text-center bg {
+  margin-bottom: 0
+}
