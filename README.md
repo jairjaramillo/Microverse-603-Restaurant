@@ -7,7 +7,7 @@
 
 <center><h1>Microverse 603: Restaurant Project</h1></center>
 
-<center><h2><a href="https://jairjy.github.io/Microverse-603-Restaurant">Try a live version of this project here!</a><h2></center>
+<center><h2><a href="https://jairjy.github.io/Microverse-603-Restaurant/dist/">Try a live version of this project here!</a><h2></center>
 
 ## About The Project
 

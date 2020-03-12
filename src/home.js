@@ -4,7 +4,7 @@ class Home {
     const title = document.createElement('h2');
     const content = document.createElement('div');
     main.className = 'col-md-12';
-    title.className = 'col-md-12';
+    title.className = 'col-md-12 text-center';
     content.className = 'col-md-12';
 
     title.innerHTML = 'Welcome!';
@@ -14,7 +14,7 @@ class Home {
         From a simple ensaland, to the most expensive of our wines. <br><br>
         Why don't you take a seat?
       </div>
-    `;
+      `;
 
     main.appendChild(title);
     main.appendChild(content);
