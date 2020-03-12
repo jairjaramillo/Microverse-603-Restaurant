@@ -27,7 +27,7 @@ This progam was made using this technologies
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
+<!--  CONTACT  -->
 
 ## Contact
 
